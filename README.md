@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **iOS Development especially UIKit.**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/12ITrFWFUNXtZ44L_22_urb-QPVPzAoI9/view?usp=sharing](https://drive.google.com/file/d/12ITrFWFUNXtZ44L_22_urb-QPVPzAoI9/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://tinyurl.com/Portfolio-NukiVenoza](https://tinyurl.com/Portfolio-NukiVenoza)
 
 - 📫 How to reach me **nukivenoza03@gmail.com**
 
